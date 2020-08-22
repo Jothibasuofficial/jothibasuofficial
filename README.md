@@ -69,6 +69,11 @@
 - [How does a boat float if it’s heavy? | Why does a boat float but a nail sink?](https://medium.com/@jothibasuofficial/how-does-a-boat-float-if-its-heavy-why-does-a-boat-float-but-a-nail-sink-1407a479b6ce?source=rss-daadca7ee7e5------2)
 <!-- BLOG-POST-LIST:END -->
 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
 [website]: https://jothibasuofficial.github.io
 [twitter]: https://twitter.com/ImJothiBasu
 [youtube]: https://youtube.com/jothibasuofficial
