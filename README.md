@@ -72,11 +72,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [What can I do | by Jothibasu](https://www.youtube.com/watch?v=8H7gCDgWrvw)
-- [Change Your World | by Jothibasu](https://www.youtube.com/watch?v=A5-uAp5V5oc)
-- [Channel Trailer | by Jothibasu](https://www.youtube.com/watch?v=KG27DqC-_X8)
-- [WebRTC Implementation for HealthCare | Final Year Project | by Jothibasu](https://www.youtube.com/watch?v=27_HUeT0SS8)
-- [Short description about me | A common man | Jothibasu](https://www.youtube.com/watch?v=Shtd1-sAle4)
+- [Simple Web Portal Using Grid Computing | CS6712 | by Jothibasu](https://www.youtube.com/watch?v=k_CR90Vbs5E)
+- [Create simple calculator using RMI(Remote Method Invocation) | CS6712 | by Jothibasu](https://www.youtube.com/watch?v=AHNd4XyQlIg)
+- [Hadoop Setup and Installation Using Ubuntu 16.04 | CS6712 | by Jothibasu](https://www.youtube.com/watch?v=XWXQobiSz8Q)
+- [Creating, deploying, and testing a simple GT4 grid service (Globus Toolkit) | CS6712 | by Jothibasu](https://www.youtube.com/watch?v=KH0jfWG3kxU)
+- [Run C++ Program in Open Nebula Sandbox by Oracle Virtual Box | CS6712 | by Jothibasu](https://www.youtube.com/watch?v=ZSshjmBXb5c)
 <!-- YOUTUBE:END -->
 
 [website]: https://jothibasuofficial.github.io
