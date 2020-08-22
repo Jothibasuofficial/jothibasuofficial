@@ -57,7 +57,9 @@
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://jothibasuofficial.github.io/img/brands/premiere.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://jothibasuofficial.github.io/img/brands/xd.svg" />
 <img align="left" alt="Sketch" width="26px" src="https://jothibasuofficial.github.io/img/brands/sketch.svg" />
-<br />
+<br /> <br/>
+
+### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Auto Scaling and Deployment of Node.js](https://medium.com/@jothibasuofficial/auto-scaling-and-deployment-of-node-js-327b381a95d8?source=rss-daadca7ee7e5------2)
