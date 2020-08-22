@@ -36,6 +36,9 @@
 <img align="left" alt="MySql" width="26px" src="https://jothibasuofficial.github.io/img/brands/mysql.svg" />
 <img align="left" alt="Mongo DB" width="35px" src="https://jothibasuofficial.github.io/img/brands/mongodb.svg" />
 
+<br />
+<br />
+
 <img align="left" alt="Bootstrap" width="26px" src="https://jothibasuofficial.github.io/img/brands/bootstrap.svg" />
 <img align="left" alt="jQuery" width="30px" src="https://jothibasuofficial.github.io/img/brands/jquery.svg" />
 <img align="left" alt="Docker" width="35px" src="https://jothibasuofficial.github.io/img/brands/docker.svg" />
@@ -54,6 +57,10 @@
 <img align="left" alt="Adobe Premiere Pro" width="26px" src="https://jothibasuofficial.github.io/img/brands/premiere.svg" />
 <img align="left" alt="Adobe XD" width="26px" src="https://jothibasuofficial.github.io/img/brands/xd.svg" />
 <img align="left" alt="Sketch" width="26px" src="https://jothibasuofficial.github.io/img/brands/sketch.svg" />
+<br />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 [website]: https://jothibasuofficial.github.io
 [twitter]: https://twitter.com/ImJothiBasu
