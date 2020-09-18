@@ -62,11 +62,11 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Can you program happiness?](https://medium.com/@jothibasuofficial/can-you-program-happiness-83ac440fac51?source=rss-daadca7ee7e5------2)
 - [Auto Scaling and Deployment of Node.js](https://medium.com/@jothibasuofficial/auto-scaling-and-deployment-of-node-js-327b381a95d8?source=rss-daadca7ee7e5------2)
 - [Why There Are 24 Hours In A Day And 60 Minutes In An Hour?](https://medium.com/@jothibasuofficial/why-there-are-24-hours-in-a-day-and-60-minutes-in-an-hour-b670879cbe99?source=rss-daadca7ee7e5------2)
 - [Not everyone has the same opportunities in life](https://medium.com/@jothibasuofficial/not-everyone-has-the-same-opportunities-in-life-f222691c7792?source=rss-daadca7ee7e5------2)
 - [Where do Deleted Files Go?](https://medium.com/@jothibasuofficial/where-do-deleted-files-go-c8e32bf5bd4e?source=rss-daadca7ee7e5------2)
-- [How does a boat float if it’s heavy? | Why does a boat float but a nail sink?](https://medium.com/@jothibasuofficial/how-does-a-boat-float-if-its-heavy-why-does-a-boat-float-but-a-nail-sink-1407a479b6ce?source=rss-daadca7ee7e5------2)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📺 Latest YouTube Videos
